@@ -11,7 +11,7 @@ CSS3 – Custom styles for layout, responsiveness, and clean UI
 
 JavaScript (Vanilla) – Handled search input, dynamic content rendering, and interactivity
 
-Netlify – Deployed for fast and reliable hosting
+Deployed on Netlify for optimized performance and reliable hosting 🚀.
 
 # 📌 Features
 🔍 Search Functionality – Users can search for phones by name using a dynamic input field
